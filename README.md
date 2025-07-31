@@ -1,7 +1,7 @@
 # mhc
 Repository for Detecting and Mapping Manufactured Housing Communities
 ### License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the Creative Commons Zero v1.0 Universal License. See the LICENSE file for details.
 ### Attribution
 If you use this data or software in your research or other work, please cite it as follows:
 @article{yeganeh2024,
