@@ -19,6 +19,10 @@
 #   geodatasets/cb_2020_18_bg_500k.shp
 #   geodatasets/cb_2020_us_ua20_500k.shp
 #
+# Census shapefiles can be obtained from:
+#   U.S. Census Bureau -> Census Geographies ->
+#   Census Mapping Files -> Cartographic Boundary Files
+#
 # Output:
 #   figures/fig_6.png
 #
